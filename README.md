@@ -5,9 +5,9 @@
 ## It's Me? :
 > * Hello There, KiyoEditz Is Here 🎐
 
-<p align="flex">
+<p align="left">
 <a href="https://github.com/KiyoEditz"><img title="Author" src="https://img.shields.io/badge/Kiyo-Editz-blue.svg?style=for-the-badge&logo=github"></a>
-<p align="flex"> 
+<p align="right"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/KiyoEditz/count.svg" />
 </p>
