@@ -55,12 +55,12 @@ fun main() {
 
 <!--![github toplang](https://github-readme-stats.vercel.app/api?username=KiyoEditz&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)-->
 
-<a href="https://github.com/ShirokamiRyzen">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShirokamiRyzen&theme=monokai)
-
 <p align="center">
   <a href="https://github.com/ShirokamiRyzen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShirokamiRyzen&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
-  
+
+ <a href="https://github.com/ShirokamiRyzen">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShirokamiRyzen&theme=monokai)
+ 
 <p align="center">
   <a href="https://github.com/ShirokamiRyzen"><img src="https://github-profile-trophy.vercel.app/?username=ShirokamiRyzen&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
