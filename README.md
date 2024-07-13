@@ -56,12 +56,12 @@ fun main() {
 <!--![github toplang](https://github-readme-stats.vercel.app/api?username=KiyoEditz&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)-->
 
 <p align="center">
-  <a href="https://github.com/KiyoEditz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KiyoEditz &theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/KiyoEditz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KiyoEditz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
  <a href="https://github.com/KiyoEditz">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiyoEditz&theme=monokai)
  
 <p align="center">
-  <a href="https://github.com/KiyoEditz"><img src="https://github-profile-trophy.vercel.app/?username=KiyoEditz &theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/KiyoEditz"><img src="https://github-profile-trophy.vercel.app/?username=KiyoEditz&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
 
