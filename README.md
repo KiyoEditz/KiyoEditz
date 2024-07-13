@@ -49,15 +49,15 @@ fun main() {
 ---------
 
 ## ```Status 🐾```
+<p align="center">
+  <a href="https://github.com/KiyoEditz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KiyoEditz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+      
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KiyoEditz&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiyoEditz&show_icons=true&theme=radical" />
 </p>
 
 <!--![github toplang](https://github-readme-stats.vercel.app/api?username=KiyoEditz&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)-->
-
-<p align="center">
-  <a href="https://github.com/KiyoEditz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KiyoEditz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-</p>
 
  <a href="https://github.com/KiyoEditz">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiyoEditz&theme=monokai)
  
