@@ -38,7 +38,7 @@ fun main() {
     val name = "Kiyo•Editz™"
     println("My name is $name")
     
-    val age = 17
+    val age = 19
     val gender = "Male"
     
     println("Age : $age Th") 
